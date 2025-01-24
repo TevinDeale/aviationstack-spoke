@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_accept" label="Accept" language="en" table="var__m_connection_attributes_384fe8f0c35712104b933342b4013175">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_accept</element>
+            <help/>
+            <hint/>
+            <label>Accept</label>
+            <language>en</language>
+            <name>var__m_connection_attributes_384fe8f0c35712104b933342b4013175</name>
+            <plural>Accept</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-22 01:29:16</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Accept</sys_name>
+            <sys_package display_value="Flight Info Spoke" source="x_1105922_flight_0">951fd0fcc3d312104b933342b40131d7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Flight Info Spoke">951fd0fcc3d312104b933342b40131d7</sys_scope>
+            <sys_update_name>sys_documentation_var__m_connection_attributes_384fe8f0c35712104b933342b4013175_u_accept_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-22 01:29:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
